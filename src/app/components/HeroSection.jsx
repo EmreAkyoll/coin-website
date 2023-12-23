@@ -21,11 +21,12 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl"> 
+            {'Hello! "Caracal" is a memecoin designed to kick off a brand-new'}
             {'adventure in the crypto world. Known as the best friend of Doge,'}
             {'Caracal aims to provide users with a unique experience in a fun and'}
             {'friendly atmosphere. Standing out as a digital asset aspiring to'}
             {'grow with its community, Caracal invites you to an astonishing '}
-          {'journey.' }
+            {'journey.' }
           </p>
           <div>
             <button className="px-6 py-3 rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
